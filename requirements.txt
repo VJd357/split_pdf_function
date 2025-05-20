@@ -1,0 +1,7 @@
+PyPDF2
+pdfplumber
+python-docx
+pytesseract
+Pillow
+python-Levenshtein
+fuzzywuzzy
